@@ -22,7 +22,7 @@
 			<i class="fas fa-reply text-brand"></i>&nbsp;
       <UserHoverCard :username="post.parent_author" />
         </div>
-    </a>
+    </span>
 </div>
   </div>        
   <div class="row">
